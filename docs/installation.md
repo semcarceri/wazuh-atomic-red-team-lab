@@ -122,18 +122,6 @@ Invoke-AtomicTest T1059.001 `
 
 ---
 
-# Executed MITRE ATT&CK Techniques
-
-| Technique ID | Technique Name |
-|-------------|----------------|
-| T1059.001 | PowerShell |
-| T1059.003 | Windows Command Shell |
-| T1105 | Ingress Tool Transfer |
-| T1547.001 | Registry Run Keys / Startup Folder |
-| T1134.002 | Create Process with Token |
-
----
-
 # Detection Pipeline
 
 ```
