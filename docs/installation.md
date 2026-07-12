@@ -16,6 +16,7 @@ The Wazuh agent was installed locally on the Windows endpoint using the enrollme
    - Downloaded automatically
    - Installed successfully
    - Registered with the manager
+<img width="800" height="450" alt="ezgif-52b5743073ece79b" src="https://github.com/user-attachments/assets/38472def-2df6-4cfe-93bd-7dec5b0a5f1e" />
 
 ## Verify Installation
 
