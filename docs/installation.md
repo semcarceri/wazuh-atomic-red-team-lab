@@ -69,6 +69,7 @@ Check generated Sysmon events:
 ```powershell
 Get-WinEvent -LogName "Microsoft-Windows-Sysmon/Operational" -MaxEvents 10
 ```
+<img width="822" height="302" alt="image" src="https://github.com/user-attachments/assets/ba4e8619-d3b6-41eb-b078-ab677fe0f297" />
 
 ---
 
@@ -120,6 +121,7 @@ Example:
 Invoke-AtomicTest T1059.001 `
 -PathToAtomicsFolder "C:\AtomicRedTeam\atomics\atomic-red-team-master\atomics"
 ```
+<img width="800" height="450" alt="2" src="https://github.com/user-attachments/assets/28429508-c408-4625-89ad-fe959293d9ba" />
 
 ---
 
