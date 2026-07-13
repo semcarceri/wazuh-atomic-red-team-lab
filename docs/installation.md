@@ -57,7 +57,7 @@ Install Sysmon using the Sysinternals binary:
 ## Verify Sysmon Service
 
 ```powershell
-Get-Service Sysmon64
+Get-Service Sysmon
 ```
 
 ---
