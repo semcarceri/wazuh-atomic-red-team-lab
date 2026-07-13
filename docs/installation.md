@@ -279,7 +279,7 @@ Sysmon is **not** a Windows Optional Feature.
 
 ## Fix
 
-Install Sysmon manually using Microsoft Sysinternals:
+Install Sysmon by manually downloading it from Microsoft Sysinternals and install it via the Powershell:
 
 ```powershell
 .\Sysmon64.exe -accepteula -i
